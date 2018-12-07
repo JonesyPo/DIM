@@ -1,0 +1,194 @@
+//Line1
+<speak>Here he is, I waited for him 11 years. The year is now 1932. This is the accuracy of theoretical physicists.</speak>
+
+// Line2
+<speak>Let’s start.</speak>
+
+// Line3
+<speak> <prosody volume="loud">
+A lively little quantum 7
+went darting through the air, 6
+Just as happy quanta 6
+go speeding everywhere. 6
+He traveled far – this quantum 7
+-- urged as if by a call, 6
+When he saw a lonely atom 8
+with no signs of pep at all, 7
+
+And he started for that atom 9
+ in the highest of elation, 8
+Said he: “Here’s where I show 6
+the trick of transmutation. 7
+I’m going to hit that atom 6
+ such an awful, awful whack, 8
+That I’ll knock out its electrons 8
+so far they can’t get back.” 6
+So he gave that peaceful atom 8
+such an energetic shove, 7
+That its outermost electrons 8
+soared to levels far above. 7
+</prosody></speak>
+
+//Line4
+<speak> <prosody volume="loud">
+Then the atom got excited, 
+and held the quantum fast,
+Until the last electron 
+came tumbling back at last.
+Then the quantum was released, 
+and fled in degradation,
+While the atom got the credit
+ for a lot of radiation.
+</prosody></speak>
+
+
+// Line 5
+<speak> 
+Great, great. Thank you.
+</speak>
+
+// Line 6
+<speak> 
+<s>Did you have some interesting conversation for 11 years?</s> 
+<s>as well?</s>
+</speak>
+
+
+// Line 7
+<speak> 
+As I was saying, at this level, your laws don’t seem to work that well. 
+This requires a different branch of physics to explain. Bohr  and some others like <prosody rate="medium">Schrödinger</prosody> and <prosody rate="medium">Heisenberg </prosody> discovered a set of laws, dubbed quantum mechanics, which applies to how particles behave at the subatomic level. Atoms can change <prosody volume="loud">into</prosody> other atoms, <s>and the behavior of particles is probabilistic</s>
+</speak>
+
+// Line 8
+<speak>
+<prosody rate="50%"><amazon:breath 
+     duration="long" volume="x-loud"/> </prosody><break time="1s"/><amazon:effect phonation="soft"><prosody rate="slow">Albert, do you remember what Bohr used always to tell you? </prosody></amazon:effect><emphasis level="moderate"><prosody volume="loud">,<break time="1s"/> einstein,</prosody><prosody volume="medium">einstein,</prosody><break time="0.5s"/>  stop telling God what to do!</emphasis></speak>
+
+// Line 9
+<speak>
+<prosody rate="110%"> But, this is not the time for contradictions.<break time="0.5s"/> We must first explain to <emphasis level="moderate">Mister Newton</emphasis> <emphasis level="strong">why</emphasis> we are trying to educate him.<break time="1s"/></prosody><prosody rate="90%">Anyways, quantum mechanics explains how <emphasis level="reduced">subatomic particles</emphasis> behave. </prosody></speak>
+
+// Line 10
+<speak>
+<amazon:effect phonation="soft"><prosody rate="90%"><s>Also</s></prosody>,Einstein <prosody rate="110%"><prosody pitch="+5%">here has discovered</prosody></prosody></amazon:effect></speak>
+
+// Line 11
+<speak>
+<s><emphasis level="moderate">Yes,</emphasis> yes, </s>Professor Albert Einstein here has <emphasis level="moderate">discovered </emphasis>laws that govern very large objects, such as stars </speak>
+
+// Line 12
+<speak>
+<prosody pitch="x-high"><prosody rate="x-fast"><prosody volume="x-loud"><emphasis level="strong">HEY, </emphasis></prosody></prosody></prosody></speak>
+
+// Line 13
+<speak>
+<prosody volume="x-soft"><prosody rate="75%"><prosody pitch="low">I hope he does not want to make <emphasis level="strong">me</emphasis> this large object. I remember when Professor Schrödinger last time put Schroedinger’s Cat to a <emphasis level="strong">box…</emphasis></prosody></prosody></prosody></speak>
+
+// Line 14
+<speak>
+but <emphasis level="moderate">wait,</emphasis> how do you know it if this happened <emphasis level="moderate">after</emphasis> your death?</speak>
+
+// Line 15
+<speak>
+<emphasis level="moderate">Now,</emphasis> you might wonder, how are two <emphasis level="moderate">positively charged</emphasis> protons clumped together so tightly in the nucleus?</speak>
+
+// Line 16
+<speak>
+<emphasis level="strong">Well, <prosody rate="75%">excuse me</prosody></emphasis><emphasis level="moderate">Mr. physics </emphasis><emphasis level="strong"><prosody rate="65%">professor</prosody></emphasis></speak>
+
+// Line 17
+<speak>
+<prosody pitch="x-high">hahaha, but that’s impossible!</prosody>
+</speak>
+
+// Line 18
+<speak>
+<prosody rate="slow">Well, you have a point, but that only predicts the position of atoms or electrons</prosody>
+</speak>
+
+// Line 19
+<speak>
+<prosody rate="50%">Yeah, Yeah</prosody><prosody rate="100%">Professor Einstein’s frustration is understandable. The idea behind quantum mechanics is extremely strange, certainly</prosody>
+</speak>
+
+// Line 20
+<speak>
+<prosody volume="x-loud"><prosody pitch="low">He wasn’t talking to you, he was talking to the audience.</prosody></prosody>
+</speak>
+
+// Line 21
+<speak>
+<prosody rate="slow"><prosody pitch="low">Do you mean Schroedinger’s Cat?</prosody></prosody>
+</speak>
+
+// Line 22
+<speak>
+<prosody volume="x-loud"><prosody rate="x-fast"><prosody pitch="low"><emphasis level="strong">SHUT UP</emphasis></prosody></prosody></prosody>
+</speak>
+
+// Line 23
+<speak>
+<prosody volume="x-loud"><prosody rate="x-fast"><prosody pitch="low"><emphasis level="strong">Do you know how small the chances of that are?</emphasis></prosody></prosody></prosody>
+</speak>
+
+// Line 24
+<speak>
+<prosody volume="loud">NOW, please professors, don’t fight.</prosody><break time="1s"/> I tell you.<s><prosody rate="slow"> I truly love these physics professors, although they do mistreat me.</prosody></s><break time="2s"/>and you? <break time="2s"/> I love physics. <break time="2s"/>And you?<break time="2s"/>Do you like to take classes? 
+</speak>
+
+// Line 25
+<speak>
+<prosody volume="loud"><prosody rate="slow"> And now, I will tell you about the Einstein-Podolsky-Rosen experiment.</prosody></prosody>
+</speak>
+
+// Line 26
+<speak>
+Well, that’s what the discussion of the two greatest physicists ever to exist would probably be like.<break time="1s"/>Clearly there are still issues that remain to be solved in the world of physics.<break time="1s"/>You will hear from us soon, and now please I want to sing for you about the famous Schrödinger’s Cat, about whom you have perhaps heard. <break time="1s"/>You may also ask questions to these … <s>professors,</s>…, if you wish to.<break time="1s"/>But first I will tell you this sad story, about which you will hear more soon.
+</speak>
+
+// Line 27
+<speak>
+Let us send Newton to the future. He will be back and will tell us.
+</speak>
+
+// Line 28
+<speak>
+<prosody rate="slow">How this can be?</prosody>
+</speak>
+
+// Line 29
+<speak>
+<prosody rate="slow">You know personally the American President Roosevelt.</prosody><break time="0.25s"/> He is the only one who can do something.
+</speak>
+
+// Line 30
+<speak>
+<prosody rate="slow">Think what is a lesser evil? </prosody>
+</speak>
+
+// Line 31
+<speak>
+<prosody rate="slow">Do not worry, US citizens would never elect a crazy person to be a president. </prosody>
+</speak>
+
+// Line 32
+<speak>
+You have to make a choice. You have to take responsibility. Regardless.
+</speak>
+
+// Line 33
+<speak>
+Do something, do not be passive.
+</speak>
+
+// Line 34
+<speak>
+<prosody rate="slow">And what if this individual lied? Or if this guy is crazy?</prosody>
+</speak>
+
+// Line 35
+<speak>
+<prosody rate="slow">Scientist’s responsibility. I could have not thought about it. Einstein was not a priest, not a theologian, not a king?<break time="0.5s"/>And new quantum Newton said that Einstein started this “new era of scientist responsibility”.
+</prosody>
+</speak>
